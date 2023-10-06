@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\CrnoTopceSept\CrnoTopceSept\bin\Debug\CrnoTopceSept.exe.config
+C:\Users\User\source\repos\CrnoTopceSept\CrnoTopceSept\bin\Debug\CrnoTopceSept.exe
+C:\Users\User\source\repos\CrnoTopceSept\CrnoTopceSept\bin\Debug\CrnoTopceSept.pdb
+C:\Users\User\source\repos\CrnoTopceSept\CrnoTopceSept\obj\Debug\CrnoTopceSept.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CrnoTopceSept\CrnoTopceSept\obj\Debug\CrnoTopceSept.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\CrnoTopceSept\CrnoTopceSept\obj\Debug\CrnoTopceSept.Form1.resources
+C:\Users\User\source\repos\CrnoTopceSept\CrnoTopceSept\obj\Debug\CrnoTopceSept.Properties.Resources.resources
+C:\Users\User\source\repos\CrnoTopceSept\CrnoTopceSept\obj\Debug\CrnoTopceSept.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CrnoTopceSept\CrnoTopceSept\obj\Debug\CrnoTopceSept.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CrnoTopceSept\CrnoTopceSept\obj\Debug\CrnoTopceSept.exe
+C:\Users\User\source\repos\CrnoTopceSept\CrnoTopceSept\obj\Debug\CrnoTopceSept.pdb

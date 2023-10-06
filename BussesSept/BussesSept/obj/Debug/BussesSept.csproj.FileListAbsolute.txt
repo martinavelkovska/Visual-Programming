@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\BussesSept\BussesSept\obj\Debug\BussesSept.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BussesSept\BussesSept\obj\Debug\BussesSept.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\BussesSept\BussesSept\obj\Debug\BussesSept.AddNewBus.resources
+C:\Users\User\source\repos\BussesSept\BussesSept\obj\Debug\BussesSept.AddNewLine.resources
+C:\Users\User\source\repos\BussesSept\BussesSept\obj\Debug\BussesSept.Form1.resources
+C:\Users\User\source\repos\BussesSept\BussesSept\obj\Debug\BussesSept.Properties.Resources.resources
+C:\Users\User\source\repos\BussesSept\BussesSept\obj\Debug\BussesSept.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BussesSept\BussesSept\obj\Debug\BussesSept.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BussesSept\BussesSept\bin\Debug\BussesSept.exe.config
+C:\Users\User\source\repos\BussesSept\BussesSept\bin\Debug\BussesSept.exe
+C:\Users\User\source\repos\BussesSept\BussesSept\bin\Debug\BussesSept.pdb
+C:\Users\User\source\repos\BussesSept\BussesSept\obj\Debug\BussesSept.exe
+C:\Users\User\source\repos\BussesSept\BussesSept\obj\Debug\BussesSept.pdb
