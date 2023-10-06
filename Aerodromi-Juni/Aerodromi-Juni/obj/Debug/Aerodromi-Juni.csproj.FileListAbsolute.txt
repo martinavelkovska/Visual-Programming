@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\bin\Debug\Aerodromi-Juni.exe.config
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\bin\Debug\Aerodromi-Juni.exe
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\bin\Debug\Aerodromi-Juni.pdb
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\obj\Debug\Aerodromi-Juni.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\obj\Debug\Aerodromi-Juni.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\obj\Debug\Aerodromi_Juni.AddAerodrom.resources
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\obj\Debug\Aerodromi_Juni.AddDestinacija.resources
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\obj\Debug\Aerodromi_Juni.Form1.resources
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\obj\Debug\Aerodromi_Juni.Properties.Resources.resources
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\obj\Debug\Aerodromi-Juni.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\obj\Debug\Aerodromi-Juni.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\obj\Debug\Aerodromi-Juni.exe
+C:\Users\User\source\repos\Aerodromi-Juni\Aerodromi-Juni\obj\Debug\Aerodromi-Juni.pdb
